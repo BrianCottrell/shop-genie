@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="show_camera">Show Camera</string>
+    <string name="hide_camera">Hide Camera</string>
+    <string name="home">home</string>
+    <string name="map">map</string>
+    <string name="reviews">reviews</string>
+    <string name="instructions">instructions</string>
+    <string name="scan">scan</string>
+</resources>
